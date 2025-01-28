@@ -64,13 +64,13 @@
 
 <h3>📫 Let's Connect!</h3>
 <p>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/ishtiaksaad" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:imsaad.exe@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
+  <a href="https://twitter.com/@theimsaad" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
