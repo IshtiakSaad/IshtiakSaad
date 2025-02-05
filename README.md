@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://ibb.co.com/GQcGpz2M"><img src="https://i.ibb.co.com/8g6Gs15x/Ishtiak-Saad-Web-Developer.png" alt="Ishtiak-Saad-Web-Developer" border="0" /></a>
+  <img src="https://i.ibb.co/8g6Gs15/Ishtiak-Saad-Web-Developer.png" alt="Ishtiak-Saad-Web-Developer" />
+</p>
+
 </p>
 
 <h1 align="center">👋 Hi, I'm Ishtiak Saad!</h1>
