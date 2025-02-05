@@ -1,16 +1,25 @@
+<p align="center">
+  <img src="https://drive.google.com/file/d/1oB2tDs-YTtl5Kan5C6YHOjMOLLROObd9/view" alt="Banner Image" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Ishtiak Saad!</h1>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IshtiakSaad&color=fb4362" alt="Profile Views" />
-</div>
+<h3 align="center">Full Stack Developer | MERN Enthusiast | UI/UX Explorer</h3>
 
 ---
 
-<h3 align="center">✨ Turning Ideas into Reality with Code</h3>
+## 🏷️ About Me  
+- 💻 Passionate Full Stack Developer crafting cinematic and elegant web experiences.  
+- 🚀 Building scalable and high-performance applications with **MERN stack**.  
+- 🎬 Focused on clean architecture, performance optimization, and timeless design.  
+- 📚 Currently exploring **Next.js, GraphQL**, and advanced **state management techniques**.  
 
-<p align="center">
-  A passionate Web Developer specializing in creating cinematic, elegant, and visually engaging web applications. 
-  From crafting seamless user experiences to building scalable backends, I strive for timeless design and functionality.
-</p>
+---
+
+## 🔥 Current Activities  
+- 🚀 Developing a **Hostel Management System** using **MERN stack**.  
+- ✨ Enhancing UI/UX with **Glassmorphic & Cinematic Aesthetics**.  
+- 📖 Learning **Express.js**, **GraphQL**, and advanced authentication flows.  
+
 
 ---
 
