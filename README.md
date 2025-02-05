@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/8g6Gs15/Ishtiak-Saad-Web-Developer.png" alt="Ishtiak-Saad-Web-Developer" />
+  <img src="./Ishtiak Saad Web Developer.png" alt="Ishtiak-Saad-Web-Developer" />
 </p>
 
 </p>
