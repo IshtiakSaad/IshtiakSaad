@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1oB2tDs-YTtl5Kan5C6YHOjMOLLROObd9/view" alt="Banner Image" />
+  <img src="https://ibb.co.com/GQcGpz2M" alt="Banner Image" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ishtiak Saad!</h1>
