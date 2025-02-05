@@ -1,6 +1,5 @@
 <p align="center">
-  <img width=”200" height=”200" src=”https://ibb.co.com/GQcGpz2M" alt=”my banner”/>
-  <img src="https://ibb.co.com/GQcGpz2M" alt="Banner Image" />
+  <img src="https://i.ibb.co.com/fd4ZFjpN/Ishtiak-Saad-Web-Developer.png" alt="Ishtiak-Saad-Web-Developer" border="0" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ishtiak Saad!</h1>
