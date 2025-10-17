@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./Ishtiak Saad Web Developer.png" alt="Ishtiak-Saad-Web-Developer" />
-</p>
-
-</p>
 
 <h1 align="center">👋 Hi, I'm Ishtiak Saad!</h1>
 <h3 align="center">Full Stack Developer | MERN Enthusiast | UI/UX Explorer</h3>
